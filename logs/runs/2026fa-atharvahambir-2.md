@@ -25,7 +25,7 @@ This records the first live run of the daily data-role checker, against one real
   - G4: E-Verify enrolled, stated by Atharva Hambir.
   - G5: `csv_name` confirmed by Atharva Hambir.
   - G6: scorer not called (nothing matched).
-- **Human decision (G7):** gate answers G4 and G5 given by Atharva Hambir on 2026-10-03. Reading the full reports and deciding on outreach to Robinhood is still pending.
+- **Human decision (G7):** gate answers G4 and G5 given by Atharva Hambir on 2026-10-03. After reading the reports, Atharva Hambir, 2026-10-03 — "Reviewed; the result makes sense. I would network into Robinhood rather than apply today: find a data or analytics contact on LinkedIn, ask for an informational chat, and keep rechecking the board for a matching entry-level role."
 - **Open issues:**
   - Fixed: the similar-name hint was printed twice (step 1 report kept as produced), and the stop-report wording pointed the wrong way. Tests re-run after both fixes: 18 OK, 4/4 mutants caught.
   - The title phrases miss data-analyst roles worded differently ("Data Solutions & Analytics … Analyst"); a near-miss list is proposed.

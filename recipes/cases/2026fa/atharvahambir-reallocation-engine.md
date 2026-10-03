@@ -35,7 +35,7 @@ RUNNABLE-SAMPLE is supported by the recorded sample run, 18 passing offline test
 | 18 offline tests | `course/2026fa/submissions/atharvahambir/runs/evidence-2026-10-03/02-prototype-tests.txt` |
 | 4 break mutants, all caught | `course/2026fa/submissions/atharvahambir/runs/evidence-2026-10-03/09-break-attempts.txt` |
 | Conformance / verify / doctor | `course/2026fa/submissions/atharvahambir/runs/evidence-2026-10-03/04-conformance-prototype.txt`, `05-verify.txt`, `06-doctor.txt` |
-| Run-log entries | `logs/runs/2026fa-atharvahambir-1.md` (sample), `logs/runs/2026fa-atharvahambir-2.md` (live worked run on one real board — gates G4/G5 answered by a named human, report sign-off still pending, so not an attested live run) |
+| Run-log entries | `logs/runs/2026fa-atharvahambir-1.md` (sample), `logs/runs/2026fa-atharvahambir-2.md` (live worked run on one real board — gates G4/G5 answered by a named human, reports reviewed and the worked-run attestation signed by him on 2026-10-03; one company, so no RUNNABLE-LIVE claim) |
 
 ## Handoff condition (done when)
 

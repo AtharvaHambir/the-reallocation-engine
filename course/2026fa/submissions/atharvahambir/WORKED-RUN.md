@@ -145,8 +145,8 @@ This is the daily check of your target companies' job boards, but **it stopped e
 ## Attestation
 
 - Recipe: atharvahambir-reallocation-engine v0.1.0
-- By: Atharva Hambir · 2026-10-03. The gate answers (G4, G5) and the choice of target are mine; the commands were run by the AI agent at my direction. I still need to read the full reports myself before signing below.
-- Signed off after reading the reports: ☐
+- By: Atharva Hambir · 2026-10-03. The gate answers (G4, G5) and the choice of target are mine; the commands were run by the AI agent at my direction. I read the reports and sign below.
+- Signed off after reading the reports: ☑ Atharva Hambir · 2026-10-03
 
 ### Tested
 

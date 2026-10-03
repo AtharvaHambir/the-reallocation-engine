@@ -22,7 +22,7 @@ This records the first logged run of the daily data-role checker: an offline sam
   - G5: Coinbase held (row has no H-1B fields), Northwind Analytics held (no row), Apricus Biosciences held (record identical to ASCUS BIOSCIENCES INC).
   - G6: scorer exit 0, `_scorer = bayesian-role-scorer`.
 - **Checks run alongside:** 18 offline tests pass (`course/2026fa/submissions/atharvahambir/runs/evidence-2026-10-03/02-prototype-tests.txt`); all 4 break mutants caught (`course/2026fa/submissions/atharvahambir/runs/evidence-2026-10-03/09-break-attempts.txt`); conformance passes (`course/2026fa/submissions/atharvahambir/runs/evidence-2026-10-03/04-conformance-prototype.txt`).
-- **Human decision (G7):** pending — Atharva Hambir has not yet recorded a review of the sample report.
+- **Human decision (G7):** Atharva Hambir, 2026-10-03 — "Reviewed; the decisions make sense for the sample, including the Apply, Consider, Needs you, and Skip outcomes. No action from me because the data is fictional."
 - **Open issues:**
   - No live run yet, so the filters have only seen synthetic postings.
   - F5 (sponsor on record but no matching title) is visible in the report but has no dedicated test assertion.

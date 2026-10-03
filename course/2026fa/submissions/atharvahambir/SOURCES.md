@@ -2,7 +2,7 @@
 
 ## Executive summary
 
-This page credits everything this submission uses: the repository and its rules, the data it reads, the code it reuses, the outside services it contacted, and the tools that built it. It also says plainly which parts an AI agent produced and which parts I decided, checked, changed or rejected. All the code and most of the text were written by an AI coding agent working at my direction. The career situation, the design of the daily checker, the filters, the persona, the gate answers and the lifecycle claim are my decisions. My own read-through of the final reports is still pending.
+This page credits everything this submission uses: the repository and its rules, the data it reads, the code it reuses, the outside services it contacted, and the tools that built it. It also says plainly which parts an AI agent produced and which parts I decided, checked, changed or rejected. All the code and most of the text were written by an AI coding agent working at my direction. The career situation, the design of the daily checker, the filters, the persona, the gate answers and the lifecycle claim are my decisions. I read the final reports and signed the worked-run attestation.
 
 ---
 
@@ -69,6 +69,6 @@ None.
 | Worked run | ran the commands; did the CSV cross-check and the break attempt | chose Robinhood; answered gates G5 (legal name) and G4 (E-Verify, my statement) |
 | Privacy | flagged that real immigration details can't be committed; kept my data in `private/` | decided the tool is for me and my real data stays private |
 | Submission | prepared the folder, commits and ZIP | chose the push location; push only on my say-so |
-| Checking the final outputs | ran every check and saved the output | **still pending:** my own read-through and sign-off of the reports |
+| Checking the final outputs | ran every check and saved the output | read the reports; recorded my decisions in both run logs and signed the worked-run attestation (2026-10-03) |
 
 Full chronology with traces: `FRICTIONAL.md` in this folder.
